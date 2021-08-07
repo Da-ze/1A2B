@@ -10,8 +10,8 @@ This python document is:
 If a unit test is conducted, the following functions must take some special attention:
 
 | Function name | Place of Appearance | Using Status in after-units |
-----------------------------------------------------------------------
-| X1 | Line 21 | Yes: in the answer "generator" unit, and Stage 3; Combined with X2 |
-| X2 | Line 22 | Yes: in the answer "generator" unit, and Stage 3; Combined with X2 |
-| Sequence_ | line 34 | Yes: in Stage 3; combined with Answer |
-| Answer | line 36 | Yes: in Stage 3 |
+| :---: | :---: | :---: |
+| X1 | Line 21 | Yes (in the answer "generator" unit, and Stage 3; Combined with X2) |
+| X2 | Line 22 | Yes (in the answer "generator" unit, and Stage 3; Combined with X2) |
+| Sequence_ | line 34 | Yes (in Stage 3; combined with Answer) |
+| Answer | line 36 | Yes (in Stage 3) |
